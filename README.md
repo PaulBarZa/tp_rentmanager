@@ -20,7 +20,7 @@ Cette méthode est située d'après le chemin absolu : **src/main/java/com/epf/r
 
 Sont présents ici seulement des tests unitaires. La couverture de test couvre un total de **75%**.
 
-**Lancer les tests**avec maven :
+**Lancer les tests** avec maven :
 
     mvn test
 
