@@ -12,7 +12,7 @@ Afin de lancer le projet avec le serveur tomcat 7 :
 			
 Le serveur tournera sur : **http://localhost:8080/rentmanager**
 
-Pour lancer le projet en ligne de commande il suffit de lancer depuis votre IDE la méthode *main*
+Pour lancer le projet en ligne de commande il suffit de lancer depuis votre IDE la méthode *main*.
 Cette méthode est située ici : **src.main.java.com.epf.rentmanager.ui.UI**
 
 
